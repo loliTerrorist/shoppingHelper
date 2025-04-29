@@ -1,0 +1,4 @@
+chunk splitting
+retrieval
+make sure the model works
+setup environment at home
